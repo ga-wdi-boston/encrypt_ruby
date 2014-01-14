@@ -1,3 +1,7 @@
+## Install the [gibberish](https://github.com/mdp/gibberish) gem.
+
+gem install gibberish
+
 ## Encrypt ruby files.
 
 Given a directory and a password the below command will:
